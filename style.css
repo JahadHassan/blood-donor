@@ -80,3 +80,75 @@ p {
     background-color: rgb(128, 33, 33);
     padding: 10px 40px;
 }
+
+#image {
+    height: 40px;
+    width: 40px;
+}
+
+#image2 {
+    height: 40px;
+    width: 40px;
+}
+
+.part-2 {
+    display: flex;
+}
+
+#image1 {
+    height: 40px;
+    width: 40px;
+}
+
+#image3 {
+    height: 40px;
+    width: 40px;
+}
+
+.Donate-Plan {
+    text-align: center;
+}
+
+.half-width {
+    width: 20%;
+    padding: 10px 10px;
+
+    border-radius: 7px;
+    margin-left: 2%;
+    text-align: justify;
+}
+
+.part2 {
+    background-color: #b3e2f4;
+}
+
+.part3 {
+    background-color: #ffbbe5;
+}
+
+.part4 {
+    background-color: #a6ace2;
+}
+
+.part1 {
+    background-color: whitesmoke;
+}
+
+.description {
+    color: dimgray;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#be-humble {
+    color: red;
+}
+
+#last-item {
+    color: dimgray;
+    font-size: 20;
+}
